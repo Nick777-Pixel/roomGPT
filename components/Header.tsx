@@ -23,7 +23,7 @@ export default function Header() {
         rel="noopener noreferrer"
       >
         <Github />
-        <p>Star on GitHub</p>
+        <p>Project by Nick</p>
       </a>
     </header>
   );
