@@ -11,7 +11,7 @@ export default function Footer() {
           rel="noreferrer"
           className="font-bold hover:underline transition hover:text-gray-300 underline-offset-2"
         >
-          Replicate,{" "}
+          Replicate{" "}
         </a>
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
