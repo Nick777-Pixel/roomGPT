@@ -13,23 +13,6 @@ export default function Footer() {
         >
           Replicate,{" "}
         </a>
-        <a
-          href="https://upload.io"
-          target="_blank"
-          rel="noreferrer"
-          className="font-bold hover:underline hover:text-gray-300 transition underline-offset-2"
-        >
-          Upload,{" "}
-        </a>
-        and{" "}
-        <a
-          href="https://vercel.com/"
-          target="_blank"
-          rel="noreferrer"
-          className="font-bold hover:underline transition hover:text-gray-300 underline-offset-2"
-        >
-          Vercel.
-        </a>
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
         <Link
