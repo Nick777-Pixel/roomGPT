@@ -15,7 +15,6 @@ export default function Header() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <Github />
         <p>Project by Nick</p>
       </a>
     </header>
