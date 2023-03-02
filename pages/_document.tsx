@@ -12,7 +12,6 @@ class MyDocument extends Document {
         <Head>
           <link rel="icon" href="/favicon.ico" />
           <meta name="description" content={description} />
-          <meta property="og:site_name" content={sitename} />
           <meta property="og:description" content={description} />
           <meta property="og:title" content={title} />
           <meta name="twitter:card" content="summary_large_image" />
