@@ -15,7 +15,7 @@ export default function Header() {
         target="_blank"
         rel="noopener noreferrer"
       >
-        <p>Project by Nick</p>
+        <p>Project AI</p>
       </a>
     </header>
   );
